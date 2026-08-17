@@ -1,4 +1,4 @@
-# Korean machine builders have until 14 January 2027, and the open standards they will rely on are not as clean as they look
+# An overview of ontology and schema quality issues in machinery data standards, tested against MTConnect and the Asset Administration Shell
 
 The EU Machinery Regulation (EU) 2023/1230 applies from 14 January 2027. On that date Directive 2006/42/EC is repealed. We verified both dates against the EUR-Lex primary text, Article 54, because a number of vendor summaries circulating online give 20 January and are simply wrong. Parts of the Regulation already bite: Articles 26 to 42 have applied since 14 January 2024.
 

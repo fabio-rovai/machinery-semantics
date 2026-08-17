@@ -1,4 +1,4 @@
-# Taiwan's machine tool cluster has until 14 January 2027, and the standards it will build on contain a defect we can show you
+# An overview of ontology and schema quality issues in machine tool data standards, tested against MTConnect and the Asset Administration Shell
 
 The EU Machinery Regulation (EU) 2023/1230 applies from 14 January 2027, the same day Directive 2006/42/EC is repealed. We verified both against the EUR-Lex primary text at Article 54, because several vendor summaries in circulation give 20 January and are wrong. Articles 26 to 42 have already applied since 14 January 2024.
 
