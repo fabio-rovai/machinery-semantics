@@ -1,0 +1,9 @@
+# Large regenerable data. Rebuild with the pipeline scripts.
+data/*.csv
+data/*.zip
+data/*repex*
+data/*rr*
+data/mtconnect/*.xsd
+data/mtconnect/*.schema.json
+__pycache__/
+*.pyc
